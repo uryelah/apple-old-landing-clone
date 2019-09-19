@@ -1,0 +1,17 @@
+/* Color variables */
+
+/* Hero image area */
+.hero {
+    background-image: url("./media/your_verse_hero.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position-y: 100%;
+}
+
+/* Aside area */
+
+.product a {
+    height: 200px;
+    width: 300px;
+    background-image: url("./media/product_01.jpg");
+}
